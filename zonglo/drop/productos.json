@@ -5,7 +5,10 @@
     "precio": 151500,
     "valor_envio": 0,
     "imagenes": [
-      "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam1.jpg"
+      "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam1.jpg",
+      "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam2.jpg",
+      "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam3.jpg",
+      
     ]
   }
 ]
