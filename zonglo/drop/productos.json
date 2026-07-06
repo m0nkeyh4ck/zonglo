@@ -5,12 +5,12 @@
     "precio": 151500,
     "valor_envio": 0,
     "imagenes": [
-      "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam1.jpg",
-      "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam2.jpg",
-      "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam3.jpg",
-      "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam4.jpg",
-      "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam5.jpg",
-      "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam6.jpg"
+      "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/pro1/cam1.jpg",
+      "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/pro1/cam2.jpg",
+      "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/pro1/cam3.jpg",
+      "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/pro1/cam4.jpg",
+      "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/pro1/cam5.jpg",
+      "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/pro1/cam6.jpg"
     ]
   },
   {
@@ -19,12 +19,12 @@
       "precio": 151500,
       "valor_envio": 0,
       "imagenes": [
-        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam1.jpg",
-        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam2.jpg",
-        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam3.jpg",
-        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam4.jpg",
-        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam5.jpg",
-        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam6.jpg"
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/pro2/cam1.jpg",
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/pro2/cam2.jpg",
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/pro2/cam3.jpg",
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/pro2/cam4.jpg",
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/pro2/cam5.jpg",
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/pro2/.jpg"
       ]
     },
     {
