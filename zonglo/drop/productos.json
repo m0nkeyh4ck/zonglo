@@ -12,5 +12,34 @@
       "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam5.jpg",
       "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam6.jpg",
     ]
-  }
+  },
+  {
+      "titulo": "Camara De Seguridad Wifi Con Panel Solar Doble Lente Color Negro",
+      "descripcion": "Llega gratis",
+      "precio": 151500,
+      "valor_envio": 0,
+      "imagenes": [
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam1.jpg",
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam2.jpg",
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam3.jpg",
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam4.jpg",
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam5.jpg",
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam6.jpg",
+      ]
+    },
+    {
+      "titulo": "Camara De Seguridad Wifi Con Panel Solar Doble Lente Color Negro",
+      "descripcion": "Llega gratis",
+      "precio": 151500,
+      "valor_envio": 0,
+      "imagenes": [
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam1.jpg",
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam2.jpg",
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam3.jpg",
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam4.jpg",
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam5.jpg",
+        "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam6.jpg",
+      ]
+    },
+  
 ]
