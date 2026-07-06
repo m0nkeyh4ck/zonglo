@@ -1,9 +1,9 @@
 [
   {
-    "titulo": "Cámara de Seguridades",
-    "descripcion": "Descrito",
+    "titulo": "Cámara de Seguridad Wifi",
+    "descripcion": "Cámara con panel solar y doble lente.",
     "precio": 151500,
     "valor_envio": 0,
-    "nombre_imagen": "images/cam1.jpg"
+    "nombre_imagen": "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam1.jpg"
   }
 ]
