@@ -1,9 +1,7 @@
-[
-  {
-    "titulo": "Cámara de Seguridad Wifi",
-    "descripcion": "Cámara con panel solar y doble lente.",
-    "precio": 151500,
-    "valor_envio": 0,
-    "nombre_imagen": "https://raw.githubusercontent.com/m0nkeyh4ck/zonglo/main/zonglo/drop/images/cam1.jpg"
-  }
-]
+data class Producto(
+    val titulo: String = "Sin título",
+    val descripcion: String = "",
+    val precio: Double = 0.0,
+    val valor_envio: Double = 0.0,
+    val imagenes: List<String> = emptyList() // Si el JSON no trae esto, evita el crash
+)
