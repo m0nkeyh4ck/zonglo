@@ -26,12 +26,5 @@
     "description": "Ejemplo con imagen animada en formato GIF.",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif",
     "targetUrl": "https://tu-sitio-web.com/soporte"
-  },
-  {
-    "id": 5,
-    "title": "Demostración en Video (MP4)",
-    "description": "Video corto reproducido en bucle y silenciado.",
-    "imageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "targetUrl": "https://tu-sitio-web.com/video"
   }
 ]
