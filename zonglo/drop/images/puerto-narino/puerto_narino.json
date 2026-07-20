@@ -18,7 +18,8 @@
         {
           "titulo": "Lago Tarapoto",
           "descripcion": "Avistamiento de delfines rosados y grises.",
-          "imageUrl": "https://awake.travel/storage/courses/1688077825667525.jpg"
+          "imageUrl": "https://awake.travel/storage/courses/1688077825667525.jpg",
+          "videoUrl": "https://discord.com/channels/tu_servidor/tu_canal"
         }
       ]
     },
@@ -29,7 +30,8 @@
         {
           "titulo": "Comida Típica Amazonense",
           "descripcion": "Disfruta de platos con pescado fresco del río.",
-          "imageUrl": "https://awake.travel/storage/courses/1688077825667525.jpg"
+          "imageUrl": "https://awake.travel/storage/courses/1688077825667525.jpg",
+          "videoUrl": ""
         }
       ]
     },
@@ -40,7 +42,8 @@
         {
           "titulo": "Artesanías Ticunas",
           "descripcion": "Trabajos en madera de palo de sangre y collares.",
-          "imageUrl": "https://awake.travel/storage/courses/1688077825667525.jpg"
+          "imageUrl": "https://awake.travel/storage/courses/1688077825667525.jpg",
+          "videoUrl": ""
         }
       ]
     }
