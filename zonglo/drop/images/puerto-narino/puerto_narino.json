@@ -1,13 +1,13 @@
 {
-  "municipio": "Puerto Nariñoo",
-  "lema": "El pesebre natural de Colombiaa",
+  "municipio": "Puerto Nariño",
+  "lema": "El pesebre natural de Colombia",
   "imagenUrl": "https://awake.travel/storage/courses/1688077825667525.jpg",
   "informacion": {
-    "alcalde": "EEdilberto Suárez Pinto",
-    "poblacion": "8.162 habitantess"
+    "alcalde": "Edilberto Suárez Pinto",
+    "poblacion": "8.162 habitantes"
   },
   "servicios": {
-    "educacion": "II.E. José Celestino Mutis",
-    "salud": "EE.S.E. Hospital San Rafael"
+    "educacion": "I.E. José Celestino Mutis",
+    "salud": "E.S.E. Hospital San Rafael"
   }
 }
