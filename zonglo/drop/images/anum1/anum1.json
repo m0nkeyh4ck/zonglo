@@ -15,56 +15,56 @@
   },
   {
     "id": 3,
-    "title": "Planeta Tierra (GIF)",
+    "title": "Planeta Tierra ",
     "description": "Visualiza la rotación de la tierra en tiempo real.",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif",
     "targetUrl": "https://tu-sitio-web.com/tierra"
   },
   {
     "id": 4,
-    "title": "Universo y Estrellas (GIF)",
+    "title": "Universo y Estrellas ",
     "description": "Explora el espacio exterior con nuestras promociones.",
     "imageUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5M2ZudGRvOWxwcGZtOWdrOWI5amthZDR0MGkxeWVldWFvdDZiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif",
     "targetUrl": "https://tu-sitio-web.com/universo"
   },
   {
     "id": 5,
-    "title": "Programación y Código (GIF)",
+    "title": "Programación y Código ",
     "description": "Aprende a desarrollar tus propios proyectos rápido.",
     "imageUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnpxYmJsdmdpdDdtczNmMTZ2NWxsMXBrdXZhbm9xYmRtd2syeDF3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn1Nm4GipJjQOaY/giphy.gif",
     "targetUrl": "https://tu-sitio-web.com/codigo"
   },
   {
     "id": 6,
-    "title": "Velocidad de Red (GIF)",
+    "title": "Velocidad de Red ",
     "description": "Conexión ultrarrápida para todos tus dispositivos.",
     "imageUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkNzRhZXNtMDk0MzdkOW1rYXNrcTBodG0wdHZvbnh3MnhlYnY4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41K3o5fA93E8a3Bu/giphy.gif",
     "targetUrl": "https://tu-sitio-web.com/velocidad"
   },
   {
     "id": 7,
-    "title": "Tecnología Ciberpunk (GIF)",
+    "title": "Tecnología Ciberpunk ",
     "description": "Diseños futuristas y rendimiento sin límites.",
     "imageUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIxbmlzeDRwMzBvZTV0dnQ1NXlsOG4zcWs0dnoxNm52ODFnY2twYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif",
     "targetUrl": "https://tu-sitio-web.com/futuro"
   },
   {
     "id": 8,
-    "title": "Videojuegos Retro (GIF)",
+    "title": "Videojuegos Retro ",
     "description": "Revive los mejores clásicos en nuestra plataforma.",
     "imageUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRocDdrZXFpdmc0OWM0YTFrcWwzbThmdThwOWthOWs0eHlwZnA5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlTy9x899OKhJ8k/giphy.gif",
     "targetUrl": "https://tu-sitio-web.com/gaming"
   },
   {
     "id": 9,
-    "title": "Ciberseguridad Total (GIF)",
+    "title": "Ciberseguridad Total ",
     "description": "Protege tus datos y navegación en todo momento.",
     "imageUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JpZXZoMzM2bThodjQyYXljMmtzeXpudmRocmEycms1cmw5eWV4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif",
     "targetUrl": "https://tu-sitio-web.com/seguridad"
   },
   {
     "id": 10,
-    "title": "Ofertas Neón (GIF)",
+    "title": "Ofertas Neón ",
     "description": "Últimas horas para aprovechar los descuentos.",
     "imageUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVvZ25zYXBpbmxseG1ybGltd2ZxeTZiaHRxcjlzdm4yd3k2OHg0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26E3Zf3hEshwYFkU8/giphy.gif",
     "targetUrl": "https://tu-sitio-web.com/ofertas"
