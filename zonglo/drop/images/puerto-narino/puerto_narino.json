@@ -22,30 +22,6 @@
           "videoUrl": "https://discord.com/channels/tu_servidor/tu_canal"
         }
       ]
-    },
-    {
-      "nombre": "Restaurantes",
-      "iconName": "restaurante",
-      "items": [
-        {
-          "titulo": "Comida Típica Amazonense",
-          "descripcion": "Disfruta de platos con pescado fresco del río.",
-          "imageUrl": "https://awake.travel/storage/courses/1688077825667525.jpg",
-          "videoUrl": ""
-        }
-      ]
-    },
-    {
-      "nombre": "Comercio",
-      "iconName": "comercio",
-      "items": [
-        {
-          "titulo": "Artesanías Ticunas",
-          "descripcion": "Trabajos en madera de palo de sangre y collares.",
-          "imageUrl": "https://awake.travel/storage/courses/1688077825667525.jpg",
-          "videoUrl": ""
-        }
-      ]
     }
   ]
 }
