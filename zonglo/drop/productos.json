@@ -63,7 +63,6 @@
             ],
             "talla": [],
             "talla_zapato": [
-                "ALL black",
                 "36",
                 "37",
                 "38",
@@ -74,8 +73,7 @@
                 "43",
                 "44",
                 "45",
-                "46",
-                "23cm"
+                "46"
             ],
             "otros": []
         },
@@ -154,7 +152,6 @@
             ],
             "talla": [],
             "talla_zapato": [
-                "verde",
                 "36(BR 33.5)",
                 "37(BR 35)",
                 "38(BR 36)",
@@ -223,7 +220,6 @@
             ],
             "talla": [],
             "talla_zapato": [
-                "green",
                 "33(BR 32)",
                 "34(BR 33)",
                 "35(BR 33)",
@@ -445,7 +441,7 @@
         "precio_actual": "$196.767",
         "precio_original": "$283.868,39",
         "calificacion": "4.5",
-        "total_resenas": "58 valoraciones",
+        "total_resenas": "59 valoraciones",
         "guardados_favoritos": null,
         "es_choice": true,
         "envio": "Envío gratis Envío: 20 - 27 de SEP",
@@ -492,7 +488,6 @@
             ],
             "talla": [],
             "talla_zapato": [
-                "Azul",
                 "36(BR 34.5)",
                 "37(BR 35)",
                 "38(BR 36)",
@@ -557,7 +552,6 @@
             ],
             "talla": [],
             "talla_zapato": [
-                "BLANCO",
                 "36(BR 34.5)",
                 "37(BR 35)",
                 "38(BR 36)",
@@ -614,7 +608,6 @@
             ],
             "talla": [],
             "talla_zapato": [
-                "Camel",
                 "36(BR 33.5)",
                 "37(BR 34.5)",
                 "38(BR 36)",
@@ -678,7 +671,6 @@
             ],
             "talla": [],
             "talla_zapato": [
-                "Beige",
                 "36(BR 33.5)",
                 "37(BR 34.5)",
                 "38(BR 36)",
